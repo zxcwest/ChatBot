@@ -21,7 +21,7 @@
 | 🧩 **Социальная система** | XP, уровни, ранги, таблицы лидеров (MySQL) |
 | 🎯 **Интерактив стрима** | Предикты, опросы, розыгрыши по команде |
 | 🔧 **Инструменты** | Команды `!тг`, `!дс`, `!донат`, уведомления о начале трансляции |
-| 🐳 **Инфраструктура** | Docker-сборка, база данных MySQL, конфигурация через `.env` |
+| 🐳 **Инфраструктура** | Docker-сборка, база данных MySQL, конфигурация через `.json` |
 
 ---
 
@@ -60,7 +60,7 @@ All data is stored in **MySQL**, and **Docker** makes deployment effortless.
 | 🧩 **Social System** | XP, levels, ranks, leaderboards (MySQL) |
 | 🎯 **Stream Interaction** | Predictions, polls, giveaways by command |
 | 🔧 **Tools** | Commands `!tg`, `!ds`, `!donate`, stream start notifications |
-| 🐳 **Infrastructure** | Docker setup, MySQL database, simple `.env` configuration |
+| 🐳 **Infrastructure** | Docker setup, MySQL database, simple `.json` configuration |
 
 ---
 
