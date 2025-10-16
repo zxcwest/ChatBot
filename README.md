@@ -59,7 +59,7 @@ All data is stored in **MySQL**, and **Docker** makes deployment effortless.
 | 💬 **AI & Moderation** | ChatGPT-based toxicity detection, banned words, triggers |
 | 🧩 **Social System** | XP, levels, ranks, leaderboards (MySQL) |
 | 🎯 **Stream Interaction** | Predictions, polls, giveaways by command |
-| 🔧 **Tools** | Commands `!tg`, `!dc`, `!donate`, stream start notifications |
+| 🔧 **Tools** | Commands `!tg`, `!ds`, `!donate`, stream start notifications |
 | 🐳 **Infrastructure** | Docker setup, MySQL database, simple `.env` configuration |
 
 ---
